@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Nagothu Varshitha 👋
 
-<!--
-**NagothuVarshitha/NagothuVarshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at KL University  
+💻 Full-Stack Developer | AI Enthusiast | Data Engineering Learner  
+☁️ Microsoft Azure Certified  
+🚀 Passionate about scalable applications and AI-driven systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Technical Skills
+
+### Languages
+- Python
+- C
+- SQL
+- Core Java
+
+### Web Technologies
+- HTML
+- CSS
+- React.js
+- Next.js
+- Express.js
+- REST APIs
+
+### Databases
+- MySQL
+- MongoDB
+
+### Tools & Platforms
+- Git
+- GitHub
+- Jenkins
+- Linux
+- Microsoft Azure
+
+---
+
+## 🚀 Projects
+
+### 🌦️ ClimateShield AI
+AI-powered system to predict income risks and disruptions for gig workers using analytics and dashboards.
+
+### 💼 Full-Stack Job Portal
+Scalable job portal connecting employers and job seekers with authentication and REST APIs.
+
+### 🚗 Car Rental System
+Full-stack booking platform with secure authentication and database integration.
+
+---
+
+## 📜 Certifications
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Oracle Certified Professional – Generative AI
+
+---
+
+## 📫 Connect With Me
+- Email: varshithanagothu05@gmail.com
+- LinkedIn: http://www.linkedin.com/in/Varshitha-nagothu
+
+---
+
+⭐ Always learning and building new technologies.
