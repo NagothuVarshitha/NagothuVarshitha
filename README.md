@@ -19,8 +19,6 @@
 - HTML
 - CSS
 - React.js
-- Next.js
-- Express.js
 - REST APIs
 
 ### Databases
@@ -30,8 +28,6 @@
 ### Tools & Platforms
 - Git
 - GitHub
-- Jenkins
-- Linux
 - Microsoft Azure
 
 ---
