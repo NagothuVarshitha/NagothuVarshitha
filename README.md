@@ -48,7 +48,7 @@ AI-powered parametric insurance platform that predicts income risks and disrupti
 
 Scalable job portal connecting employers and job seekers with authentication, resume management, and REST API integration.
 
-### 🚗 Car Rental System
+### 🚗 DriveEase
 
 Full-stack vehicle booking platform with secure authentication, database integration, and real-time booking management.
 
@@ -93,8 +93,6 @@ AI-powered interview preparation platform built using React.js, FastAPI, MySQL, 
 
 ## 🌱 Currently Learning
 
-* Data Engineering
-* Cloud Computing
 * System Design
 * Advanced Full-Stack Development
 * Artificial Intelligence & Machine Learning
@@ -105,8 +103,7 @@ AI-powered interview preparation platform built using React.js, FastAPI, MySQL, 
 
 * Software Development Engineer (SDE)
 * Full-Stack Development
-* Data Engineering
-* Cloud Technologies
+* AI Generative
 * AI & Machine Learning
 
 ---
