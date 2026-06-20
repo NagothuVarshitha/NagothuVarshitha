@@ -48,6 +48,7 @@ Full-stack booking platform with secure authentication and database integration.
 ## 📜 Certifications
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Oracle Certified Professional – Generative AI
+- Advanced Automation Professional - Automation Anywhere
 
 ---
 
