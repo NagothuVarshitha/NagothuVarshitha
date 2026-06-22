@@ -62,6 +62,7 @@ AI-powered interview preparation platform built using React.js, FastAPI, MySQL, 
 
 * Microsoft Certified: Azure Fundamentals (AZ-900)
 * Oracle Certified Professional – Generative AI
+* Advanced Automation Professional - Automation Anywhere
 
 ---
 
