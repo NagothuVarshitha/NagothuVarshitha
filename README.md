@@ -43,7 +43,7 @@
 * Operating Systems (OS)
 * Computer Networks (CN)
 * Object-Oriented Programming (OOP)
-* Design and Analysis of Algorithms
+* Design and Analysis of Algorithms (DAA)
 
 ## 🚀 Projects
 
