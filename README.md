@@ -37,6 +37,13 @@
 * FastAPI
 
 ---
+## 📚 Coursework
+* Data Structures & Algorithms (DSA)
+* Database Management Systems (DBMS)
+* Operating Systems (OS)
+* Computer Networks (CN)
+* Object-Oriented Programming (OOP)
+* Design and Analysis of Algorithms
 
 ## 🚀 Projects
 
