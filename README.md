@@ -51,9 +51,9 @@
 
 AI-powered parametric insurance platform that predicts income risks and disruptions for gig workers using weather analytics, dashboards, and automated payout recommendations.
 
-### 💼 Full-Stack Job Portal
+### 💼 CareerConnect
 
-Scalable job portal connecting employers and job seekers with authentication, resume management, and REST API integration.
+Full-stack job management platform with secure authentication, job posting, application tracking, REST API integration, and MySQL database management.
 
 ### 🚗 DriveEase
 
