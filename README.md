@@ -108,6 +108,7 @@ AI-powered digital will management platform with secure authentication, digital 
 * System Design
 * Advanced Full-Stack Development
 * Artificial Intelligence & Machine Learning
+* AI Generative
 
 ---
 
