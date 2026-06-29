@@ -63,6 +63,10 @@ Full-stack vehicle booking platform with secure authentication, database integra
 
 AI-powered interview preparation platform built using React.js, FastAPI, MySQL, and Google Gemini AI. Features resume analysis, AI-generated interview questions, mock interviews, feedback generation, and progress tracking.
 
+### 📜 DigitalWill AI
+
+AI-powered digital will management platform with secure authentication, digital asset organization, beneficiary management, AI-assisted document handling, and database integration.
+
 ---
 
 ## 📜 Certifications
