@@ -1,125 +1,367 @@
-# Hi, I'm Nagothu Varshitha 👋
+<div align="center">
 
-🎓 **B.Tech Computer Science & Engineering Student** at KL University
-💻 **Full-Stack Developer | AI Enthusiast | Data Engineering Learner**
-☁️ **Microsoft Azure Certified**
-🚀 Passionate about building scalable applications, AI-powered solutions, and modern web platforms.
+# 👋 Hi, I'm Nagothu Varshitha
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Software+Developer;Java+%7C+Python+Developer;Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=NagothuVarshitha&style=for-the-badge&color=7aa2f7&label=Profile+Views"/>
+
+<img src="https://img.shields.io/github/followers/NagothuVarshitha?style=for-the-badge&color=7aa2f7&logo=github&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/NagothuVarshitha?affiliations=OWNER&style=for-the-badge&color=7aa2f7&label=Stars"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Software Developer | Full Stack Developer | AI Enthusiast
+
+🎓 **B.Tech Computer Science & Engineering** • **KL University**
+
+💡 Passionate about building scalable software, solving real-world problems, and continuously learning modern technologies.
+
+</div>
 
 ---
 
-## 👩‍💻 Technical Skills
+<div align="center">
 
-### Programming Languages
+<a href="https://www.linkedin.com/in/Varshitha-nagothu">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-* Python
-* Core Java
-* C
-* SQL
+<a href="https://github.com/NagothuVarshitha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Web Technologies
+<a href="https://leetcode.com/u/klu23000032636/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-* HTML
-* CSS
-* React.js
-* REST APIs
+<a href="https://www.hackerrank.com/profile/klu23000032636">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-### Databases
+<a href="https://www.codechef.com/users/klu_2300032636">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
-* MySQL
-* MongoDB
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Microsoft Azure
-* VS Code
-* FastAPI
+</div>
 
 ---
-## 📚 Coursework
-* Data Structures & Algorithms (DSA)
-* Database Management Systems (DBMS)
-* Operating Systems (OS)
-* Computer Networks (CN)
-* Object-Oriented Programming (OOP)
-* Design and Analysis of Algorithms (DAA)
 
-## 🚀 Projects
+> ### 🚀 *"Building software that solves problems, creates value, and never stops evolving."*
 
-### 🌦️ ClimateShield AI
+---
 
-AI-powered parametric insurance platform that predicts income risks and disruptions for gig workers using weather analytics, dashboards, and automated payout recommendations.
+## 🚀 About Me
 
-### 💼 CareerConnect
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-Full-stack job management platform with secure authentication, job posting, application tracking, REST API integration, and MySQL database management.
+I'm a **Computer Science Engineering** student at **KL University** with a passion for building scalable software, solving real-world problems, and continuously improving my technical skills.
 
-### 🚗 DriveEase
+I enjoy working on **Full Stack Development**, **Artificial Intelligence**, and **Problem Solving**, while exploring modern software engineering practices.
 
-Full-stack vehicle booking platform with secure authentication, database integration, and real-time booking management.
+### 🌱 Currently
 
-### 🤖 InterviewAI
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- 💻 Building Full Stack Applications
+- 🤖 Exploring Artificial Intelligence & Generative AI
+- ☁️ Learning Cloud Technologies
+- 📚 Practicing Data Structures & Algorithms
 
-AI-powered interview preparation platform built using React.js, FastAPI, MySQL, and Google Gemini AI. Features resume analysis, AI-generated interview questions, mock interviews, feedback generation, and progress tracking.
+### 🎯 Career Objective
 
-### 📜 DigitalWill AI
+My goal is to become a **Software Development Engineer (SDE)** and contribute to building reliable, scalable, and user-centric applications while continuously learning modern technologies.
 
-AI-powered digital will management platform with secure authentication, digital asset organization, beneficiary management, AI-assisted document handling, and database integration.
+### 💡 Interests
+
+- 💻 Software Development
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- 📊 Problem Solving
+- ☁️ Cloud Computing
+- 🚀 Open Source
+
+---
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,spring,fastapi" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,azure" />
+</p>
+
+### 📚 Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems (OS)
+- Computer Networks (CN)
+- Artificial Intelligence & Machine Learning
+
+---
+
+## 🚀 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/NagothuVarshitha/InterviewAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NagothuVarshitha&repo=InterviewAI&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/NagothuVarshitha/ClimateShield-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NagothuVarshitha&repo=ClimateShield-AI&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/NagothuVarshitha/DriveEase">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NagothuVarshitha&repo=DriveEase&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/NagothuVarshitha/python-dsa-practice">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NagothuVarshitha&repo=python-dsa-practice&theme=tokyonight"/>
+
+</a>
+
+</div>
+
+---
+
+### ⭐ Highlights
+
+- 🚀 Built multiple Full Stack Applications
+- 🤖 Developed AI-powered software solutions
+- 🔐 Implemented Authentication & Authorization
+- 📡 Designed REST APIs
+- 🗄️ Worked with SQL & NoSQL Databases
+- ☁️ Azure Certified
+- 💻 Passionate about Software Engineering
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NagothuVarshitha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagothuVarshitha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NagothuVarshitha&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NagothuVarshitha&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NagothuVarshitha&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NagothuVarshitha&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NagothuVarshitha&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NagothuVarshitha&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NagothuVarshitha&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NagothuVarshitha&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/klu23000032636/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/klu23000032636">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/users/klu_2300032636">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</div>
+
+## 📈 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/klu23000032636?theme=dark&font=Poppins&ext=contest"/>
+
+</div>
+
+---
+
+### 💡 Highlights
+
+- 💻 Solving Data Structures & Algorithms problems
+- 🧠 Strong foundation in Problem Solving
+- 🐍 HackerRank Skill Badges in **Python**, **SQL**, and **Problem Solving**
+- 🚀 Regular practice on coding platforms
 
 ---
 
 ## 📜 Certifications
 
-* Microsoft Certified: Azure Fundamentals (AZ-900)
-* Oracle Certified Professional – Generative AI
-* Advanced Automation Professional - Automation Anywhere
+🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
+
+🏅 Oracle Certified Professional – Generative AI
+
+🏅 Advanced Automation Professional – Automation Anywhere
 
 ---
 
-## 🏆 Coding Profiles
+## 👩‍💼 Leadership Experience
 
-### LeetCode
+**Core Organizer – RPA Club, KL University**
 
-🔗 https://leetcode.com/u/klu23000032636/
-
-### HackerRank
-
-🔗 https://www.hackerrank.com/profile/klu23000032636
-
-### CodeChef
-
-🔗 https://www.codechef.com/users/klu_2300032636
-
----
-
-## 📫 Connect With Me
-
-📧 Email: [varshithanagothu05@gmail.com](mailto:varshithanagothu05@gmail.com)
-
-💼 LinkedIn: http://www.linkedin.com/in/Varshitha-nagothu
-
-💻 GitHub: https://github.com/NagothuVarshitha
+- Conducted technical workshops on Automation and AI.
+- Coordinated technical events and student activities.
+- Helped organize hands-on learning sessions for students.
+- Promoted awareness of emerging technologies through outreach programs.
 
 ---
 
 ## 🌱 Currently Learning
 
-* System Design
-* Advanced Full-Stack Development
-* Artificial Intelligence & Machine Learning
-* Generative AI
-* Agentic AI
+<table>
+<tr>
+<td>
+
+- 🤖 Artificial Intelligence
+- 🧠 Generative AI
+- 🤖 Agentic AI
+- 🏗️ System Design
+
+</td>
+
+<td>
+
+- ☁️ Cloud Computing
+- 🌐 Full Stack Development
+- ⚡ Software Architecture
+- 📈 Advanced DSA
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Career Interests
+## 🤝 Let's Connect
 
-* Software Development Engineer (SDE)
-* Full-Stack Development
-* AI Generative
-* AI & Machine Learning
+<div align="center">
+
+<a href="mailto:varshithanagothu05@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/Varshitha-nagothu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NagothuVarshitha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/klu23000032636/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/klu23000032636">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/klu_2300032636">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-⭐ **Always learning, building, and exploring new technologies to create impactful solutions.**
+<div align="center">
+
+## 💬 Quote
+
+*"Code is more than instructions—it's the bridge between ideas and impact."*
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,100:7aa2f7&height=120&section=footer"/>
+
+</div>
