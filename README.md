@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Nagothu+Varshitha;Software+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies"/>
 
-</div>
+
+# 👋 Hi, I'm Nagothu Varshitha
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Software+Developer;Java+%7C+Python+Developer;Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG"/>
+
+
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=NagothuVarshitha&style=for-the-badge&color=7aa2f7&label=Profile+Views"/>
 
