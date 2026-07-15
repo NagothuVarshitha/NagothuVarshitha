@@ -150,25 +150,6 @@ My goal is to become a **Software Development Engineer (SDE)** and contribute to
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NagothuVarshitha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagothuVarshitha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NagothuVarshitha&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 📊 GitHub Profile Summary
 
