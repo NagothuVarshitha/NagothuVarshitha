@@ -137,33 +137,6 @@ My goal is to become a **Software Development Engineer (SDE)** and contribute to
 
 ---
 
-## 🚀 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/NagothuVarshitha/InterviewAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NagothuVarshitha&repo=InterviewAI&theme=tokyonight"/>
-
-</a>
-
-<a href="https://github.com/NagothuVarshitha/ClimateShield-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NagothuVarshitha&repo=ClimateShield-AI&theme=tokyonight"/>
-
-</a>
-
-<a href="https://github.com/NagothuVarshitha/DriveEase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NagothuVarshitha&repo=DriveEase&theme=tokyonight"/>
-
-</a>
-
-<a href="https://github.com/NagothuVarshitha/python-dsa-practice">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NagothuVarshitha&repo=python-dsa-practice&theme=tokyonight"/>
-
-</a>
-
-</div>
-
----
 
 ### ⭐ Highlights
 
