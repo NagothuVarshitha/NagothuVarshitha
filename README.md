@@ -193,16 +193,6 @@ My goal is to become a **Software Development Engineer (SDE)** and contribute to
 ---
 
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NagothuVarshitha&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
