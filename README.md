@@ -250,8 +250,7 @@ My goal is to become a **Software Development Engineer (SDE)** and contribute to
 
 - 🤖 Artificial Intelligence
 - 🧠 Generative AI
-- 🤖 Agentic AI
-- 🏗️ System Design
+- 🤖 Data Visualization
 
 </td>
 
